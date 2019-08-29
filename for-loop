@@ -1,0 +1,4 @@
+//don't get confused by 0 as a staring point, look at the whole expression as a counter
+//counter will count n times
+for(var i=0;i<n;i++){
+}
